@@ -2,6 +2,7 @@
 
 Classifying 500 bird-species images using Tensorflow-Keras model. This kernel is under development but in future I will deplot Neural Netork model in Python frameworks
 
+* See the Kaggle notebook [here](https://www.kaggle.com/code/karan842/500-species-classification-cnn-w-b-92)
 * Setting [Weights & Biases](https://wandb.ai/home/) to track the experiemnts 
 
 #### See the model experiments [here](https://wandb.ai/karan842/birds-species-classification?workspace=user-karan842)
